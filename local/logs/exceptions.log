@@ -1,0 +1,16 @@
+$date_time:
+2025-06-29 16:27:31
+
+OTUS - 2025-06-29 16:27:31 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [DivisionByZeroError] 
+Division by zero (0)
+/home/c/cm88995/public_html/local/otus/debug.php:9
+----------
+
+$date_time:
+2025-06-29 16:29:48
+
+OTUS - 2025-06-29 16:29:48 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [DivisionByZeroError] 
+Division by zero (0)
+/home/c/cm88995/public_html/local/otus/debug.php:9
+----------
+
