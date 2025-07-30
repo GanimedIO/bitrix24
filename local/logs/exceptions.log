@@ -14,3 +14,513 @@ Division by zero (0)
 /home/c/cm88995/public_html/local/otus/debug.php:9
 ----------
 
+$date_time:
+2025-07-01 06:42:18
+
+OTUS - 2025-07-01 06:42:18 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [DivisionByZeroError] 
+Division by zero (0)
+/home/c/cm88995/public_html/local/otus/debug.php:9
+----------
+
+$date_time:
+2025-07-02 10:02:34
+
+OTUS - 2025-07-02 10:02:34 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [DivisionByZeroError] 
+Division by zero (0)
+/home/c/cm88995/public_html/local/otus/debug.php:9
+----------
+
+$date_time:
+2025-07-02 10:03:09
+
+OTUS - 2025-07-02 10:03:09 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [DivisionByZeroError] 
+Division by zero (0)
+/home/c/cm88995/public_html/local/otus/debug.php:9
+----------
+
+OTUS - 2025-07-22 11:34:07 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+Unknown field definition `ELEMENT` (PROC_IDS_MULTI.ELEMENT.*) for \Bitrix\Iblock\Elements\IblockProperty76 Entity. (100)
+/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/chain.php:346
+#0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition(object, string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:1153
+#1: Bitrix\Main\ORM\Query\Query->addToSelectChain(string, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:2476
+#2: Bitrix\Main\ORM\Query\Query->buildQuery()
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:942
+#3: Bitrix\Main\ORM\Query\Query->exec()
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:503
+#4: Bitrix\Main\ORM\Data\DataManager::getList(array)
+	/home/c/cm88995/public_html/local/task6/doctors/multi.php:9
+----------
+
+OTUS - 2025-07-22 11:34:53 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+Unknown field definition `ELEMENT` (PROC_IDS_MULTI.ELEMENT.*) for \Bitrix\Iblock\Elements\IblockProperty76 Entity. (100)
+/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/chain.php:346
+#0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition(object, string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:1153
+#1: Bitrix\Main\ORM\Query\Query->addToSelectChain(string, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:2476
+#2: Bitrix\Main\ORM\Query\Query->buildQuery()
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:942
+#3: Bitrix\Main\ORM\Query\Query->exec()
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:503
+#4: Bitrix\Main\ORM\Data\DataManager::getList(array)
+	/home/c/cm88995/public_html/local/task6/doctors/multi.php:9
+----------
+
+OTUS - 2025-07-22 16:44:39 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Call to a member function getAll() on null (0)
+/home/c/cm88995/public_html/local/task6/doctors/multi.php:57
+----------
+
+OTUS - 2025-07-22 16:46:55 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Call to a member function getAll() on null (0)
+/home/c/cm88995/public_html/local/task6/doctors/multi.php:57
+----------
+
+OTUS - 2025-07-22 16:48:30 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Call to a member function getAll() on null (0)
+/home/c/cm88995/public_html/local/task6/doctors/multi.php:57
+----------
+
+OTUS - 2025-07-22 16:50:06 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Call to a member function getAll() on null (0)
+/home/c/cm88995/public_html/local/task6/doctors/multi.php:57
+----------
+
+OTUS - 2025-07-22 16:51:36 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Call to a member function getAll() on null (0)
+/home/c/cm88995/public_html/local/task6/doctors/multi.php:57
+----------
+
+OTUS - 2025-07-22 16:51:47 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Call to a member function getAll() on null (0)
+/home/c/cm88995/public_html/local/task6/doctors/multi.php:57
+----------
+
+OTUS - 2025-07-22 16:52:34 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Call to a member function getAll() on null (0)
+/home/c/cm88995/public_html/local/task6/doctors/multi.php:57
+----------
+
+OTUS - 2025-07-22 16:53:32 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Call to a member function getAll() on null (0)
+/home/c/cm88995/public_html/local/task6/doctors/multi.php:57
+----------
+
+OTUS - 2025-07-23 01:00:31 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:10:42 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:13:09 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:13:11 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:21:11 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected identifier "style" (0)
+/home/c/cm88995/public_html/local/php_interface/init.php:22
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/public/session.php:8
+#2: require(string)
+	/home/c/cm88995/public_html/bitrix/tools/public_session.php:1
+----------
+
+OTUS - 2025-07-23 01:21:12 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected identifier "style" (0)
+/home/c/cm88995/public_html/local/php_interface/init.php:22
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#3: require(string)
+	/home/c/cm88995/public_html/doctors/index.php:2
+----------
+
+OTUS - 2025-07-23 01:21:57 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:22:01 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:24:12 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected single-quoted string ",", expecting ")" (0)
+/home/c/cm88995/public_html/local/php_interface/init.php:17
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#3: require(string)
+	/home/c/cm88995/public_html/doctors/index.php:2
+----------
+
+OTUS - 2025-07-23 01:24:22 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected single-quoted string "", expecting ")" (0)
+/home/c/cm88995/public_html/local/php_interface/init.php:17
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#3: require(string)
+	/home/c/cm88995/public_html/doctors/index.php:2
+----------
+
+OTUS - 2025-07-23 01:24:42 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:24:53 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:24:55 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:24:57 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:24:58 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:24:58 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:24:59 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:25:00 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:25:01 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:25:02 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:25:03 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:25:04 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:25:05 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:25:06 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:25:07 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:25:07 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:25:08 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:25:09 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:25:10 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:25:11 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:25:56 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:27:08 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:27:27 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:34:31 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\Lists\DoctorsPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 01:36:05 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\AbstractIblockPropertyValuesTable" not found (0)
+/home/c/cm88995/public_html/local/app/Models/Lists/DoctorsPropertyValuesTable.php:7
+#0: include_once
+	/home/c/cm88995/public_html/local/app/autoload.php:8
+#1: {closure}(string)
+	/home/c/cm88995/public_html/doctors/index.php:74
+----------
+
+OTUS - 2025-07-23 16:45:47 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "DoctorTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:39
+----------
+
+OTUS - 2025-07-23 16:45:56 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "DoctorTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:39
+----------
+
+OTUS - 2025-07-23 16:49:29 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "DoctorTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:39
+----------
+
+OTUS - 2025-07-23 17:32:59 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "DoctorTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:37
+----------
+
+OTUS - 2025-07-23 17:33:19 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\SqlQueryException] 
+Mysql query error: (1146) Table 'cm88995_b24.b_iblock_element_prop_s19' doesn't exist (400)
+SELECT 
+	`models_lists_procs_property_values_element`.`ID` AS `ID`,
+	`models_lists_procs_property_values_element`.`NAME` AS `NAME`,
+	`models_lists_procs_property_values`.`IBLOCK_ELEMENT_ID` AS `UALIAS_0`
+FROM `b_iblock_element_prop_s19` `models_lists_procs_property_values` 
+LEFT JOIN `b_iblock_element` `models_lists_procs_property_values_element` ON `models_lists_procs_property_values`.`IBLOCK_ELEMENT_ID` = `models_lists_procs_property_values_element`.`ID`
+/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqlcommonconnection.php:415
+#0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException(integer, string, string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqliconnection.php:149
+#1: Bitrix\Main\DB\MysqliConnection->queryInternal(string, array, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:324
+#2: Bitrix\Main\DB\Connection->query(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:3601
+#3: Bitrix\Main\ORM\Query\Query->query(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:972
+#4: Bitrix\Main\ORM\Query\Query->exec()
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:1017
+#5: Bitrix\Main\ORM\Query\Query->fetchAll()
+	/home/c/cm88995/public_html/doctors/index.php:103
+----------
+
+OTUS - 2025-07-23 17:34:37 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "DoctorTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:37
+----------
+
+OTUS - 2025-07-23 17:36:38 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "DoctorTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:37
+----------
+
+OTUS - 2025-07-23 17:36:57 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "DoctorTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:37
+----------
+
+OTUS - 2025-07-23 17:53:58 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "DoctorTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:37
+----------
+
+OTUS - 2025-07-23 17:54:47 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "DoctorTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:37
+----------
+
+OTUS - 2025-07-23 17:54:51 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "DoctorTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:37
+----------
+
+OTUS - 2025-07-23 17:54:56 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "DoctorTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:37
+----------
+
+OTUS - 2025-07-23 17:55:00 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "DoctorTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:37
+----------
+
+OTUS - 2025-07-29 07:49:39 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "DoctorTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:37
+----------
+
+OTUS - 2025-07-29 08:07:05 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "DoctorsTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:65
+----------
+
+OTUS - 2025-07-29 08:07:06 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "DoctorsTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:65
+----------
+
+OTUS - 2025-07-29 08:07:10 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "DoctorsTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:65
+----------
+
+OTUS - 2025-07-29 08:21:41 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+Cannot access offset of type string on string (0)
+/home/c/cm88995/public_html/doctors/index.php:126
+----------
+
+OTUS - 2025-07-29 08:21:43 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+Cannot access offset of type string on string (0)
+/home/c/cm88995/public_html/doctors/index.php:126
+----------
+
+OTUS - 2025-07-29 08:21:45 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+Cannot access offset of type string on string (0)
+/home/c/cm88995/public_html/doctors/index.php:126
+----------
+
+OTUS - 2025-07-29 08:21:46 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+Cannot access offset of type string on string (0)
+/home/c/cm88995/public_html/doctors/index.php:126
+----------
+
+OTUS - 2025-07-29 08:21:47 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+Cannot access offset of type string on string (0)
+/home/c/cm88995/public_html/doctors/index.php:126
+----------
+
+OTUS - 2025-07-29 08:21:47 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+Cannot access offset of type string on string (0)
+/home/c/cm88995/public_html/doctors/index.php:126
+----------
+
+OTUS - 2025-07-29 08:21:48 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+Cannot access offset of type string on string (0)
+/home/c/cm88995/public_html/doctors/index.php:126
+----------
+
+OTUS - 2025-07-29 08:21:49 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+Cannot access offset of type string on string (0)
+/home/c/cm88995/public_html/doctors/index.php:126
+----------
+
+OTUS - 2025-07-29 08:21:50 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+Cannot access offset of type string on string (0)
+/home/c/cm88995/public_html/doctors/index.php:126
+----------
+
+OTUS - 2025-07-29 08:21:51 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+Cannot access offset of type string on string (0)
+/home/c/cm88995/public_html/doctors/index.php:126
+----------
+
+OTUS - 2025-07-29 08:22:10 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+Cannot access offset of type string on string (0)
+/home/c/cm88995/public_html/doctors/index.php:126
+----------
+
+OTUS - 2025-07-29 08:33:21 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+Cannot access offset of type string on string (0)
+/home/c/cm88995/public_html/doctors/index.php:127
+----------
+
+OTUS - 2025-07-30 21:05:33 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "SpecsTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:50
+----------
+
+OTUS - 2025-07-30 21:07:23 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "SpecsTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:50
+----------
+
+OTUS - 2025-07-30 21:07:27 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "SpecsTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:50
+----------
+
+OTUS - 2025-07-30 21:08:01 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "SpecsTable" not found (0)
+/home/c/cm88995/public_html/doctors/index.php:50
+----------
+
+OTUS - 2025-07-30 21:09:33 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\SqlQueryException] 
+Mysql query error: (1146) Table 'cm88995_b24.b_iblock_element_prop_s20' doesn't exist (400)
+SELECT 
+	`models_lists_specs_property_values_element`.`NAME` AS `NAME`,
+	`models_lists_specs_property_values`.`IBLOCK_ELEMENT_ID` AS `UALIAS_0`,
+	`models_lists_specs_property_values_element`.`ID` AS `UALIAS_1`
+FROM `b_iblock_element_prop_s20` `models_lists_specs_property_values` 
+LEFT JOIN `b_iblock_element` `models_lists_specs_property_values_element` ON `models_lists_specs_property_values`.`IBLOCK_ELEMENT_ID` = `models_lists_specs_property_values_element`.`ID`
+WHERE `models_lists_specs_property_values_element`.`ID` IN (46, 44, 43)
+/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqlcommonconnection.php:415
+#0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException(integer, string, string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqliconnection.php:149
+#1: Bitrix\Main\DB\MysqliConnection->queryInternal(string, array, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:324
+#2: Bitrix\Main\DB\Connection->query(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:3601
+#3: Bitrix\Main\ORM\Query\Query->query(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:972
+#4: Bitrix\Main\ORM\Query\Query->exec()
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:1017
+#5: Bitrix\Main\ORM\Query\Query->fetchAll()
+	/home/c/cm88995/public_html/doctors/index.php:54
+----------
+
