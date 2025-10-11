@@ -1,0 +1,118 @@
+array (
+  'result' => 
+  array (
+    'ID' => '2',
+    'POST' => 'Руководитель проектов',
+    'COMMENTS' => '',
+    'HONORIFIC' => NULL,
+    'NAME' => 'Борис',
+    'SECOND_NAME' => 'Викторович',
+    'LAST_NAME' => 'Соколов',
+    'PHOTO' => 
+    array (
+      'id' => 112,
+      'showUrl' => '/bitrix/components/bitrix/crm.contact.show/show_file.php?ownerId=2&fieldName=PHOTO&dynamic=N&fileId=112',
+      'downloadUrl' => '/bitrix/components/bitrix/crm.contact.show/show_file.php?auth=f374d068007c4d9a007c49a200000001000007a62e0455e99e08e54e3800121cbc8d74&ownerId=2&fieldName=PHOTO&dynamic=N&fileId=112',
+    ),
+    'LEAD_ID' => NULL,
+    'TYPE_ID' => 'SUPPLIER',
+    'SOURCE_ID' => 'TRADE_SHOW',
+    'SOURCE_DESCRIPTION' => NULL,
+    'COMPANY_ID' => '5',
+    'BIRTHDATE' => '',
+    'EXPORT' => 'Y',
+    'HAS_PHONE' => 'Y',
+    'HAS_EMAIL' => 'Y',
+    'HAS_IMOL' => 'N',
+    'DATE_CREATE' => '2025-06-12T06:57:22+03:00',
+    'DATE_MODIFY' => '2025-09-22T00:12:19+03:00',
+    'ASSIGNED_BY_ID' => '1',
+    'CREATED_BY_ID' => '1',
+    'MODIFY_BY_ID' => '1',
+    'OPENED' => 'Y',
+    'ORIGINATOR_ID' => NULL,
+    'ORIGIN_ID' => NULL,
+    'ORIGIN_VERSION' => NULL,
+    'FACE_ID' => NULL,
+    'LAST_ACTIVITY_TIME' => '2025-06-12T06:57:22+03:00',
+    'ADDRESS' => NULL,
+    'ADDRESS_2' => NULL,
+    'ADDRESS_CITY' => NULL,
+    'ADDRESS_POSTAL_CODE' => NULL,
+    'ADDRESS_REGION' => NULL,
+    'ADDRESS_PROVINCE' => NULL,
+    'ADDRESS_COUNTRY' => NULL,
+    'ADDRESS_LOC_ADDR_ID' => NULL,
+    'UTM_SOURCE' => NULL,
+    'UTM_MEDIUM' => NULL,
+    'UTM_CAMPAIGN' => NULL,
+    'UTM_CONTENT' => NULL,
+    'UTM_TERM' => NULL,
+    'LAST_ACTIVITY_BY' => '1',
+    'UF_CRM_1758367071504' => '2025-09-22T03:00:00+03:00',
+    'UF_CRM_1758489094499' => '',
+    'EMAIL' => 
+    array (
+      0 => 
+      array (
+        'ID' => '8',
+        'VALUE_TYPE' => 'WORK',
+        'VALUE' => 'boris@newtech.net',
+        'TYPE_ID' => 'EMAIL',
+      ),
+    ),
+    'PHONE' => 
+    array (
+      0 => 
+      array (
+        'ID' => '9',
+        'VALUE_TYPE' => 'MOBILE',
+        'VALUE' => '8 903 236 55 44',
+        'TYPE_ID' => 'PHONE',
+      ),
+    ),
+    'WEB' => 
+    array (
+      0 => 
+      array (
+        'ID' => '10',
+        'VALUE_TYPE' => 'WORK',
+        'VALUE' => 'www.newtech.net',
+        'TYPE_ID' => 'WEB',
+      ),
+      1 => 
+      array (
+        'ID' => '11',
+        'VALUE_TYPE' => 'FACEBOOK',
+        'VALUE' => 'newtech',
+        'TYPE_ID' => 'WEB',
+      ),
+      2 => 
+      array (
+        'ID' => '12',
+        'VALUE_TYPE' => 'TWITTER',
+        'VALUE' => 'net_newtech',
+        'TYPE_ID' => 'WEB',
+      ),
+    ),
+    'IM' => 
+    array (
+      0 => 
+      array (
+        'ID' => '13',
+        'VALUE_TYPE' => 'SKYPE',
+        'VALUE' => 'boris_power',
+        'TYPE_ID' => 'IM',
+      ),
+    ),
+  ),
+  'time' => 
+  array (
+    'start' => 1758489177.787076,
+    'finish' => 1758489178.120723,
+    'duration' => 0.3336470127105713,
+    'processing' => 0.09854698181152344,
+    'date_start' => '2025-09-22T00:12:57+03:00',
+    'date_finish' => '2025-09-22T00:12:58+03:00',
+  ),
+)

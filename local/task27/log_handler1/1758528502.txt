@@ -1,0 +1,94 @@
+array (
+  'result' => 
+  array (
+    'ID' => '6',
+    'POST' => 'Начальник отдела',
+    'COMMENTS' => '',
+    'HONORIFIC' => NULL,
+    'NAME' => 'Елена',
+    'SECOND_NAME' => NULL,
+    'LAST_NAME' => 'Шашкова',
+    'PHOTO' => 
+    array (
+      'id' => 116,
+      'showUrl' => '/bitrix/components/bitrix/crm.contact.show/show_file.php?ownerId=6&fieldName=PHOTO&dynamic=N&fileId=116',
+      'downloadUrl' => '/bitrix/components/bitrix/crm.contact.show/show_file.php?auth=0412d168007c4d9a007c49a200000001000007d16a4af0e0e56bd8b7b79e47c71230a0&ownerId=6&fieldName=PHOTO&dynamic=N&fileId=116',
+    ),
+    'LEAD_ID' => NULL,
+    'TYPE_ID' => 'PARTNER',
+    'SOURCE_ID' => 'PARTNER',
+    'SOURCE_DESCRIPTION' => NULL,
+    'COMPANY_ID' => '4',
+    'BIRTHDATE' => '',
+    'EXPORT' => 'Y',
+    'HAS_PHONE' => 'N',
+    'HAS_EMAIL' => 'Y',
+    'HAS_IMOL' => 'N',
+    'DATE_CREATE' => '2025-06-12T06:57:23+03:00',
+    'DATE_MODIFY' => '2025-06-12T06:57:23+03:00',
+    'ASSIGNED_BY_ID' => '1',
+    'CREATED_BY_ID' => '1',
+    'MODIFY_BY_ID' => '1',
+    'OPENED' => 'Y',
+    'ORIGINATOR_ID' => NULL,
+    'ORIGIN_ID' => NULL,
+    'ORIGIN_VERSION' => NULL,
+    'FACE_ID' => NULL,
+    'LAST_ACTIVITY_TIME' => '2025-06-12T06:57:23+03:00',
+    'ADDRESS' => NULL,
+    'ADDRESS_2' => NULL,
+    'ADDRESS_CITY' => NULL,
+    'ADDRESS_POSTAL_CODE' => NULL,
+    'ADDRESS_REGION' => NULL,
+    'ADDRESS_PROVINCE' => NULL,
+    'ADDRESS_COUNTRY' => NULL,
+    'ADDRESS_LOC_ADDR_ID' => NULL,
+    'UTM_SOURCE' => NULL,
+    'UTM_MEDIUM' => NULL,
+    'UTM_CAMPAIGN' => NULL,
+    'UTM_CONTENT' => NULL,
+    'UTM_TERM' => NULL,
+    'LAST_ACTIVITY_BY' => '1',
+    'UF_CRM_1758367071504' => '',
+    'UF_CRM_1758489094499' => '',
+    'EMAIL' => 
+    array (
+      0 => 
+      array (
+        'ID' => '16',
+        'VALUE_TYPE' => 'WORK',
+        'VALUE' => 'ln@logistics-north.com',
+        'TYPE_ID' => 'EMAIL',
+      ),
+    ),
+    'IM' => 
+    array (
+      0 => 
+      array (
+        'ID' => '17',
+        'VALUE_TYPE' => 'ICQ',
+        'VALUE' => '202707',
+        'TYPE_ID' => 'IM',
+      ),
+    ),
+    'WEB' => 
+    array (
+      0 => 
+      array (
+        'ID' => '18',
+        'VALUE_TYPE' => 'WORK',
+        'VALUE' => 'www.logistics-north.com',
+        'TYPE_ID' => 'WEB',
+      ),
+    ),
+  ),
+  'time' => 
+  array (
+    'start' => 1758528501.175013,
+    'finish' => 1758528501.485295,
+    'duration' => 0.31028199195861816,
+    'processing' => 0.09275007247924805,
+    'date_start' => '2025-09-22T11:08:21+03:00',
+    'date_finish' => '2025-09-22T11:08:21+03:00',
+  ),
+)

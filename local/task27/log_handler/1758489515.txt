@@ -1,0 +1,26 @@
+array (
+  'event' => 'ONCRMACTIVITYADD',
+  'event_handler_id' => '7',
+  'data' => 
+  array (
+    'FIELDS' => 
+    array (
+      'ID' => '89',
+    ),
+  ),
+  'ts' => '1758489514',
+  'auth' => 
+  array (
+    'access_token' => 'bb79d068007c4d9a007c49a20000000300000793f6a38016872f270d81277a1aa9c95d',
+    'expires' => '1758493115',
+    'expires_in' => '3600',
+    'scope' => 'crm,user',
+    'domain' => 'cm88995.tw1.ru',
+    'server_endpoint' => 'https://oauth.bitrix24.tech/rest/',
+    'status' => 'L',
+    'client_endpoint' => 'https://cm88995.tw1.ru/rest/',
+    'member_id' => '84ecc1c3c3f90aaff919122f142749e4',
+    'user_id' => '3',
+    'application_token' => '37349aae361b2bfc6537e9131e6e4f6b',
+  ),
+)

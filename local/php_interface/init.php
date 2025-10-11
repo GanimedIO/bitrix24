@@ -25,4 +25,20 @@ function pr($var, $type = false) {
 		print_r($var);
 	echo '</pre>';
 
-}
+};
+
+//task9
+include_once __DIR__ . '/../task9/AuthorTable.php';
+include_once __DIR__ . '/../task9/BookTable.php';
+
+
+
+
+//Кастомные события
+include_once __DIR__ . '/../task24/events.php';
+
+//свои методы REST
+include_once __DIR__ . '/../task30/OriginalContactsDataTable.php';
+include_once __DIR__ . '/../task30/events.php';
+
+

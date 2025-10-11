@@ -1,0 +1,94 @@
+array (
+  'result' => 
+  array (
+    'ID' => '7',
+    'POST' => 'Менеджер по продажам',
+    'COMMENTS' => '',
+    'HONORIFIC' => NULL,
+    'NAME' => 'Екатерина',
+    'SECOND_NAME' => NULL,
+    'LAST_NAME' => 'Шарова',
+    'PHOTO' => 
+    array (
+      'id' => 117,
+      'showUrl' => '/bitrix/components/bitrix/crm.contact.show/show_file.php?ownerId=7&fieldName=PHOTO&dynamic=N&fileId=117',
+      'downloadUrl' => '/bitrix/components/bitrix/crm.contact.show/show_file.php?auth=f374d068007c4d9a007c49a200000001000007a62e0455e99e08e54e3800121cbc8d74&ownerId=7&fieldName=PHOTO&dynamic=N&fileId=117',
+    ),
+    'LEAD_ID' => NULL,
+    'TYPE_ID' => 'SUPPLIER',
+    'SOURCE_ID' => 'WEB',
+    'SOURCE_DESCRIPTION' => NULL,
+    'COMPANY_ID' => '1',
+    'BIRTHDATE' => '',
+    'EXPORT' => 'Y',
+    'HAS_PHONE' => 'Y',
+    'HAS_EMAIL' => 'Y',
+    'HAS_IMOL' => 'N',
+    'DATE_CREATE' => '2025-06-12T06:57:23+03:00',
+    'DATE_MODIFY' => '2025-06-12T06:57:23+03:00',
+    'ASSIGNED_BY_ID' => '1',
+    'CREATED_BY_ID' => '1',
+    'MODIFY_BY_ID' => '1',
+    'OPENED' => 'Y',
+    'ORIGINATOR_ID' => NULL,
+    'ORIGIN_ID' => NULL,
+    'ORIGIN_VERSION' => NULL,
+    'FACE_ID' => NULL,
+    'LAST_ACTIVITY_TIME' => '2025-06-12T06:57:23+03:00',
+    'ADDRESS' => NULL,
+    'ADDRESS_2' => NULL,
+    'ADDRESS_CITY' => NULL,
+    'ADDRESS_POSTAL_CODE' => NULL,
+    'ADDRESS_REGION' => NULL,
+    'ADDRESS_PROVINCE' => NULL,
+    'ADDRESS_COUNTRY' => NULL,
+    'ADDRESS_LOC_ADDR_ID' => NULL,
+    'UTM_SOURCE' => NULL,
+    'UTM_MEDIUM' => NULL,
+    'UTM_CAMPAIGN' => NULL,
+    'UTM_CONTENT' => NULL,
+    'UTM_TERM' => NULL,
+    'LAST_ACTIVITY_BY' => '1',
+    'UF_CRM_1758367071504' => '',
+    'UF_CRM_1758489094499' => '',
+    'EMAIL' => 
+    array (
+      0 => 
+      array (
+        'ID' => '19',
+        'VALUE_TYPE' => 'WORK',
+        'VALUE' => 'cat@mpzk.com',
+        'TYPE_ID' => 'EMAIL',
+      ),
+    ),
+    'PHONE' => 
+    array (
+      0 => 
+      array (
+        'ID' => '20',
+        'VALUE_TYPE' => 'WORK',
+        'VALUE' => '8 4012 531249',
+        'TYPE_ID' => 'PHONE',
+      ),
+    ),
+    'WEB' => 
+    array (
+      0 => 
+      array (
+        'ID' => '21',
+        'VALUE_TYPE' => 'WORK',
+        'VALUE' => 'www.mpzk.com',
+        'TYPE_ID' => 'WEB',
+      ),
+    ),
+  ),
+  'time' => 
+  array (
+    'start' => 1758489516.266903,
+    'finish' => 1758489516.8026,
+    'duration' => 0.5356969833374023,
+    'processing' => 0.15826678276062012,
+    'date_start' => '2025-09-22T00:18:36+03:00',
+    'date_finish' => '2025-09-22T00:18:36+03:00',
+  ),
+)

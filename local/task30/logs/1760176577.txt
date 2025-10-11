@@ -1,0 +1,9 @@
+arParams: array (
+  'ID' => '2',
+  'ENTITY_ID' => 'cucumber333',
+  'ELEMENT_ID' => '444444444444444',
+  'TYPE_ID' => 'testtesttesttest',
+  'VALUE_TYPE' => 'testererwrwer',
+  'VALUE' => '9999999999',
+  'NEW_VALUE' => '8888888888',
+)

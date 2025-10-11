@@ -1,0 +1,9 @@
+arParams: array (
+  'ID' => '9',
+  'ENTITY_ID' => 'DECEMBER',
+  'ELEMENT_ID' => '589',
+  'TYPE_ID' => 'текст',
+  'VALUE_TYPE' => 'текст',
+  'VALUE' => '89654123',
+  'NEW_VALUE' => '548632155',
+)

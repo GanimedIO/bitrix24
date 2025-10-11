@@ -524,3 +524,2169 @@ WHERE `models_lists_specs_property_values_element`.`ID` IN (46, 44, 43)
 	/home/c/cm88995/public_html/doctors/index.php:54
 ----------
 
+OTUS - 2025-09-28 12:24:43 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Call to undefined function file_exist() (0)
+/home/c/cm88995/public_html/local/php_interface/init.php:32
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/public/session.php:8
+#3: require(string)
+	/home/c/cm88995/public_html/bitrix/tools/public_session.php:1
+----------
+
+OTUS - 2025-09-28 12:24:44 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Call to undefined function file_exist() (0)
+/home/c/cm88995/public_html/local/php_interface/init.php:32
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#4: require(string)
+	/home/c/cm88995/public_html/services/lists/index.php:5
+#5: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#6: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-09-28 14:19:54 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Failed opening required '/home/c/cm88995/public_html/local/php_interface/task24/events.php' (include_path='.:/opt/php82/share/pear') (0)
+/home/c/cm88995/public_html/local/php_interface/init.php:32
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#4: require(string)
+	/home/c/cm88995/public_html/stream/index.php:11
+----------
+
+OTUS - 2025-09-28 14:21:27 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Failed opening required '/home/c/cm88995/public_html/local/php_interface/events.php' (include_path='.:/opt/php82/share/pear') (0)
+/home/c/cm88995/public_html/local/php_interface/init.php:32
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#4: require(string)
+	/home/c/cm88995/public_html/stream/index.php:11
+----------
+
+OTUS - 2025-09-28 14:22:34 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Failed opening required '/home/c/cm88995/public_html/local/php_interface/local/task24/events.php' (include_path='.:/opt/php82/share/pear') (0)
+/home/c/cm88995/public_html/local/php_interface/init.php:32
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#4: require(string)
+	/home/c/cm88995/public_html/stream/index.php:11
+----------
+
+OTUS - 2025-09-28 14:23:01 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Failed opening required '/home/c/cm88995/public_html/local/php_interface../local/task24/events.php' (include_path='.:/opt/php82/share/pear') (0)
+/home/c/cm88995/public_html/local/php_interface/init.php:32
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#4: require(string)
+	/home/c/cm88995/public_html/stream/index.php:11
+----------
+
+OTUS - 2025-09-28 14:25:30 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Failed opening required '/home/c/cm88995/public_html/local/php_interface/../local/task24/events.php' (include_path='.:/opt/php82/share/pear') (0)
+/home/c/cm88995/public_html/local/php_interface/init.php:32
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#4: require(string)
+	/home/c/cm88995/public_html/stream/index.php:11
+----------
+
+OTUS - 2025-09-28 14:27:42 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Failed opening required '/home/c/cm88995/public_html/local/php_interface/../local/task24/events.php' (include_path='.:/opt/php82/share/pear') (0)
+/home/c/cm88995/public_html/local/php_interface/init.php:33
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#4: require(string)
+	/home/c/cm88995/public_html/stream/index.php:11
+----------
+
+OTUS - 2025-09-28 14:45:55 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:9
+----------
+
+OTUS - 2025-09-28 14:46:40 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:9
+----------
+
+OTUS - 2025-09-28 14:47:34 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:9
+----------
+
+OTUS - 2025-09-28 14:47:36 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:9
+----------
+
+OTUS - 2025-09-28 14:47:36 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:9
+----------
+
+OTUS - 2025-09-28 14:47:37 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:9
+----------
+
+OTUS - 2025-09-28 14:47:37 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:9
+----------
+
+OTUS - 2025-09-28 14:47:37 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:9
+----------
+
+OTUS - 2025-09-28 14:47:37 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:9
+----------
+
+OTUS - 2025-09-28 14:47:37 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:9
+----------
+
+OTUS - 2025-09-28 14:47:37 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:9
+----------
+
+OTUS - 2025-09-28 14:47:58 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+Unmatched '}' (0)
+/home/c/cm88995/public_html/local/php_interface/init.php:43
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#3: require(string)
+	/home/c/cm88995/public_html/crm/deal/index.php:5
+#4: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#5: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-09-28 14:48:29 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:9
+----------
+
+OTUS - 2025-09-28 14:50:48 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected token "(", expecting ":" (0)
+/home/c/cm88995/public_html/local/task24/events.php:5
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#4: require(string)
+	/home/c/cm88995/public_html/crm/deal/index.php:5
+#5: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#6: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-09-28 14:51:18 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Undefined constant "srwerwer" (0)
+/home/c/cm88995/public_html/local/task24/events.php:5
+#0: include_once
+	/home/c/cm88995/public_html/local/php_interface/init.php:32
+#1: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#4: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#5: require(string)
+	/home/c/cm88995/public_html/crm/deal/index.php:5
+#6: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#7: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-09-28 14:51:19 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Undefined constant "srwerwer" (0)
+/home/c/cm88995/public_html/local/task24/events.php:5
+#0: include_once
+	/home/c/cm88995/public_html/local/php_interface/init.php:32
+#1: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#4: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#5: require(string)
+	/home/c/cm88995/public_html/crm/deal/index.php:5
+#6: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#7: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-09-28 14:56:13 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ArgumentCountError] 
+file_put_contents() expects at least 2 arguments, 1 given (0)
+/home/c/cm88995/public_html/local/php_interface/init.php:35
+#0: file_put_contents(string)
+	/home/c/cm88995/public_html/local/php_interface/init.php:35
+#1: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#4: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#5: require(string)
+	/home/c/cm88995/public_html/crm/deal/index.php:5
+#6: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#7: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-09-28 14:59:27 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:17
+----------
+
+OTUS - 2025-09-28 15:00:42 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:01:29 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:01:32 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:01:32 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:01:33 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:01:33 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:01:36 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:02:09 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:02:10 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:02:11 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:02:36 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:03:16 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:03:36 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:04:36 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:13:59 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:20:09 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:24:17 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:24:19 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:24:20 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:24:21 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:24:21 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:24:21 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:24:21 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:24:39 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:24:40 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:24:40 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:24:41 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:24:41 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:24:59 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Cannot use positional argument after named argument (0)
+/home/c/cm88995/public_html/local/task24/events.php:18
+----------
+
+OTUS - 2025-09-28 15:50:22 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Call to undefined function getContext() (0)
+/home/c/cm88995/public_html/local/task24/events.php:24
+#0: MyClassFields::СhangePriceAfterDealUpdate(array)
+	/home/c/cm88995/public_html/bitrix/modules/main/tools.php:5260
+#1: ExecuteModuleEventEx(array, array)
+	/home/c/cm88995/public_html/bitrix/modules/crm/classes/general/crm_deal.php:3690
+#2: CAllCrmDeal->Update(integer, array, boolean, boolean, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/crm.deal.details/ajax.php:1036
+----------
+
+OTUS - 2025-09-28 16:04:31 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected token "=" (0)
+/home/c/cm88995/public_html/local/task24/events.php:24
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/crm.deal.details/ajax.php:8
+----------
+
+OTUS - 2025-09-28 16:04:31 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected token "=" (0)
+/home/c/cm88995/public_html/local/task24/events.php:24
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/crm.deal.details/ajax.php:8
+----------
+
+OTUS - 2025-09-28 16:39:40 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected token ";", expecting ")" (0)
+/home/c/cm88995/public_html/local/task24/events.php:29
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/crm.deal.details/ajax.php:8
+----------
+
+OTUS - 2025-09-28 16:39:40 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected token ";", expecting ")" (0)
+/home/c/cm88995/public_html/local/task24/events.php:29
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/crm.deal.details/ajax.php:8
+----------
+
+OTUS - 2025-09-28 16:39:54 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected token ";", expecting ")" (0)
+/home/c/cm88995/public_html/local/task24/events.php:29
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/public/session.php:8
+#3: require(string)
+	/home/c/cm88995/public_html/bitrix/tools/public_session.php:1
+----------
+
+OTUS - 2025-09-28 16:40:32 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected token ";", expecting ")" (0)
+/home/c/cm88995/public_html/local/task24/events.php:29
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/public/session.php:8
+#3: require(string)
+	/home/c/cm88995/public_html/bitrix/tools/public_session.php:1
+----------
+
+OTUS - 2025-09-28 16:40:54 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected token ";", expecting ")" (0)
+/home/c/cm88995/public_html/local/task24/events.php:29
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/public/session.php:8
+#3: require(string)
+	/home/c/cm88995/public_html/bitrix/tools/public_session.php:1
+----------
+
+OTUS - 2025-09-28 17:07:05 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected token ";", expecting ")" (0)
+/home/c/cm88995/public_html/local/task24/events.php:32
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/public/session.php:8
+#3: require(string)
+	/home/c/cm88995/public_html/bitrix/tools/public_session.php:1
+----------
+
+OTUS - 2025-09-28 17:07:10 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected token ";", expecting ")" (0)
+/home/c/cm88995/public_html/local/task24/events.php:32
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/crm.deal.details/ajax.php:8
+----------
+
+OTUS - 2025-09-28 17:07:10 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected token ";", expecting ")" (0)
+/home/c/cm88995/public_html/local/task24/events.php:32
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/crm.deal.details/ajax.php:8
+----------
+
+OTUS - 2025-09-28 17:26:43 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected variable "$element", expecting "(" (0)
+/home/c/cm88995/public_html/local/task24/events.php:35
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/public/session.php:8
+#3: require(string)
+	/home/c/cm88995/public_html/bitrix/tools/public_session.php:1
+----------
+
+OTUS - 2025-09-28 17:26:45 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected variable "$element", expecting "(" (0)
+/home/c/cm88995/public_html/local/task24/events.php:35
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/crm.deal.details/ajax.php:8
+----------
+
+OTUS - 2025-09-28 17:26:45 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected variable "$element", expecting "(" (0)
+/home/c/cm88995/public_html/local/task24/events.php:35
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/crm.deal.details/ajax.php:8
+----------
+
+OTUS - 2025-09-28 17:27:04 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected variable "$element", expecting "(" (0)
+/home/c/cm88995/public_html/local/task24/events.php:35
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#4: require(string)
+	/home/c/cm88995/public_html/crm/deal/index.php:5
+#5: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#6: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-09-28 17:27:06 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected variable "$element", expecting "(" (0)
+/home/c/cm88995/public_html/local/task24/events.php:35
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#4: require(string)
+	/home/c/cm88995/public_html/crm/deal/index.php:5
+#5: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#6: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-09-28 17:27:20 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected variable "$element", expecting "(" (0)
+/home/c/cm88995/public_html/local/task24/events.php:35
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#4: require(string)
+	/home/c/cm88995/public_html/crm/deal/index.php:5
+#5: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#6: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-09-28 17:27:20 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected variable "$element", expecting "(" (0)
+/home/c/cm88995/public_html/local/task24/events.php:35
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#4: require(string)
+	/home/c/cm88995/public_html/crm/deal/index.php:5
+#5: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#6: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-09-28 17:28:03 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected variable "$element", expecting "(" (0)
+/home/c/cm88995/public_html/local/task24/events.php:35
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#4: require(string)
+	/home/c/cm88995/public_html/crm/deal/index.php:5
+#5: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#6: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-09-28 17:28:04 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected variable "$element", expecting "(" (0)
+/home/c/cm88995/public_html/local/task24/events.php:35
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#4: require(string)
+	/home/c/cm88995/public_html/crm/deal/index.php:5
+#5: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#6: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-09-28 17:30:36 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected token "}" (0)
+/home/c/cm88995/public_html/local/task24/events.php:39
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#4: require(string)
+	/home/c/cm88995/public_html/crm/deal/index.php:5
+#5: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#6: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-09-28 18:02:15 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Undefined constant "RUB" (0)
+/home/c/cm88995/public_html/local/task24/events.php:40
+#0: MyClassFields::СhangePriceAfterDealUpdate(array)
+	/home/c/cm88995/public_html/bitrix/modules/main/tools.php:5260
+#1: ExecuteModuleEventEx(array, array)
+	/home/c/cm88995/public_html/bitrix/modules/crm/classes/general/crm_deal.php:3690
+#2: CAllCrmDeal->Update(integer, array, boolean, boolean, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/crm.deal.details/ajax.php:1036
+----------
+
+OTUS - 2025-09-28 19:17:39 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Undefined constant "–4" (0)
+/home/c/cm88995/public_html/local/task24/events.php:59
+#0: MyClassFieldsIB::СhangePriceAfterZayavkaUpdate(array)
+	/home/c/cm88995/public_html/bitrix/modules/main/tools.php:5260
+#1: ExecuteModuleEventEx(array, array)
+	/home/c/cm88995/public_html/bitrix/modules/iblock/classes/mysql/iblockelement.php:1851
+#2: CIBlockElement->Update(integer, array, boolean, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/lists.element.edit/component.php:778
+#3: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#4: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#5: CBitrixComponent->includeComponent(string, array, object, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#6: CAllMain->IncludeComponent(string, string, array, object)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/lists/templates/.default/list_element_edit.php:2
+#7: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component_template.php:790
+#8: CBitrixComponentTemplate->__IncludePHPTemplate(array, array, string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component_template.php:885
+#9: CBitrixComponentTemplate->IncludeTemplate(array)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:791
+#10: CBitrixComponent->showComponentTemplate()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:731
+#11: CBitrixComponent->includeComponentTemplate(string)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/lists/component.php:355
+#12: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#13: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#14: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#15: CAllMain->IncludeComponent(string, string, array, boolean)
+	/home/c/cm88995/public_html/services/lists/index.php:9
+#16: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#17: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-04 12:39:11 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Application" not found (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:1
+#0: eval
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php:135
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-04 18:39:58 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected identifier "table" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:1
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-04 18:40:55 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected identifier "table" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:1
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-04 18:43:02 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected identifier "table" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:1
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-04 18:46:24 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected identifier "table" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:1
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-04 18:49:23 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected string content ";" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:3
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-04 18:49:37 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected string content ";" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:3
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-04 18:52:41 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected identifier "table" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:1
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-04 18:53:55 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected identifier "table" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:1
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-04 18:57:32 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected identifier "TABLE" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:1
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-04 18:59:52 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected identifier "table" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:1
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-04 19:00:15 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected identifier "TABLE" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:1
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-04 19:00:35 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected identifier "tables" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:1
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-04 19:01:21 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected identifier "TABLE" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:1
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-04 19:04:30 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected identifier "into" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:1
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-04 19:05:44 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected identifier "into" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:1
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-04 19:06:03 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected identifier "into" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:1
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-04 19:08:29 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected identifier "into" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:1
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-04 19:14:44 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected identifier "table" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:1
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-04 19:14:56 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected identifier "table" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:1
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-04 22:51:20 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Models\ClientsTable" not found (0)
+/home/c/cm88995/public_html/local/components/task12/table.views/class.php:47
+#0: TableViewsComponent->getColumn()
+	/home/c/cm88995/public_html/local/components/task12/table.views/class.php:105
+#1: TableViewsComponent->executeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:675
+#2: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#3: CAllMain->IncludeComponent(string, string, array, boolean)
+	/home/c/cm88995/public_html/local/task12/index.php:61
+----------
+
+OTUS - 2025-10-04 23:56:45 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected identifier "table" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:1
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-08 22:43:31 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Namespace declaration statement has to be the very first statement or after any declare call in the script (0)
+/home/c/cm88995/public_html/local/task30/events.php:4
+----------
+
+OTUS - 2025-10-08 22:43:33 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_COMPILE_ERROR
+Namespace declaration statement has to be the very first statement or after any declare call in the script (0)
+/home/c/cm88995/public_html/local/task30/events.php:4
+----------
+
+OTUS - 2025-10-08 22:44:24 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [RuntimeException] 
+Could not start session because headers have already been sent. "/home/c/cm88995/public_html/local/task30/events.php":3. (0)
+/home/c/cm88995/public_html/bitrix/modules/main/lib/session/session.php:143
+#0: Bitrix\Main\Session\Session->start()
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/session/kernelsessionproxy.php:47
+#1: Bitrix\Main\Session\KernelSessionProxy->start()
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:182
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#4: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#5: require(string)
+	/home/c/cm88995/public_html/local/task12/index.php:2
+----------
+
+OTUS - 2025-10-08 22:45:19 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [RuntimeException] 
+Could not start session because headers have already been sent. "/home/c/cm88995/public_html/local/task30/events.php":3. (0)
+/home/c/cm88995/public_html/bitrix/modules/main/lib/session/session.php:143
+#0: Bitrix\Main\Session\Session->start()
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/session/kernelsessionproxy.php:47
+#1: Bitrix\Main\Session\KernelSessionProxy->start()
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:182
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/public/session.php:8
+#4: require(string)
+	/home/c/cm88995/public_html/bitrix/tools/public_session.php:1
+----------
+
+OTUS - 2025-10-08 23:25:25 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected identifier "file_put_contents", expecting "function" or "const" (0)
+/home/c/cm88995/public_html/local/task30/events.php:87
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/index.php:8
+----------
+
+OTUS - 2025-10-09 23:23:59 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "local\task30\OriginalContactsDataTable" not found (0)
+/home/c/cm88995/public_html/local/task30/events.php:68
+#0: local\task30\Events::add(array, integer, object)
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:274
+#1: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#2: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#3: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#4: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#5: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#6: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#7: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#8: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#9: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#10: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#11: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#12: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#13: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-09 23:25:26 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "local\task30\OriginalContactsDataTable" not found (0)
+/home/c/cm88995/public_html/local/task30/events.php:63
+#0: local\task30\Events::add(array, integer, object)
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:274
+#1: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#2: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#3: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#4: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#5: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#6: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#7: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#8: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#9: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#10: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#11: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#12: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#13: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-09 23:31:34 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "local\task30\OriginalContactsDataTable" not found (0)
+/home/c/cm88995/public_html/local/task30/events.php:63
+#0: local\task30\Events::add(array, integer, object)
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:274
+#1: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#2: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#3: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#4: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#5: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#6: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#7: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#8: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#9: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#10: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#11: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#12: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#13: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-10 00:24:26 - Host: cm88995.tw1.ru - UNKNOWN - [Bitrix\Main\ArgumentException] 
+Empty primary found when trying to query OriginalContactsData row. (100)
+/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:638
+#0: Bitrix\Main\ORM\Data\DataManager::validatePrimary(array)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:1650
+#1: Bitrix\Main\ORM\Data\DataManager::delete(array)
+	/home/c/cm88995/public_html/local/task30/events.php:85
+#2: local\task30\Events::del(array, integer, object)
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:274
+#3: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#4: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#5: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#6: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#7: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#8: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#9: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#10: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#11: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#12: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#13: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#14: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#15: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-10 00:40:52 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Cannot use object of type Bitrix\Main\ORM\Query\Result as array (0)
+/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:282
+#0: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#1: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#2: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#3: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#4: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#5: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#6: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#7: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#8: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#9: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#10: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#11: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#12: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-10 00:41:39 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Cannot use object of type Bitrix\Main\ORM\Query\Result as array (0)
+/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:282
+#0: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#1: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#2: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#3: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#4: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#5: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#6: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#7: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#8: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#9: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#10: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#11: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#12: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-10 00:42:11 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Cannot use object of type Bitrix\Main\ORM\Query\Result as array (0)
+/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:282
+#0: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#1: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#2: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#3: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#4: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#5: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#6: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#7: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#8: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#9: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#10: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#11: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#12: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-10 00:44:27 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Cannot use object of type Bitrix\Main\ORM\Query\Result as array (0)
+/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:282
+#0: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#1: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#2: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#3: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#4: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#5: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#6: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#7: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#8: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#9: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#10: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#11: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#12: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-10 00:45:06 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Cannot use object of type Bitrix\Main\ORM\Query\Result as array (0)
+/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:282
+#0: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#1: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#2: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#3: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#4: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#5: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#6: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#7: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#8: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#9: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#10: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#11: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#12: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-10 00:46:32 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Cannot use object of type Bitrix\Main\ORM\Query\Result as array (0)
+/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:282
+#0: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#1: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#2: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#3: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#4: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#5: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#6: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#7: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#8: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#9: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#10: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#11: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#12: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-11 11:35:24 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Cannot use object of type Bitrix\Main\ORM\Query\Result as array (0)
+/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:282
+#0: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#1: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#2: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#3: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#4: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#5: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#6: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#7: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#8: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#9: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#10: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#11: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#12: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-11 11:37:36 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected token ")" (0)
+/home/c/cm88995/public_html/local/task30/events.php:116
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#4: require(string)
+	/home/c/cm88995/public_html/devops/index.php:2
+#5: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#6: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-11 11:37:50 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected token ")" (0)
+/home/c/cm88995/public_html/local/task30/events.php:116
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#4: require(string)
+	/home/c/cm88995/public_html/devops/index.php:2
+#5: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#6: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-11 11:37:52 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected token ")" (0)
+/home/c/cm88995/public_html/local/task30/events.php:116
+#0: include_once
+	/home/c/cm88995/public_html/bitrix/modules/main/include.php:140
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog_before.php:19
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/prolog.php:10
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/header.php:1
+#4: require(string)
+	/home/c/cm88995/public_html/devops/index.php:2
+#5: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#6: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-11 11:51:05 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+Bitrix\Main\ORM\Data\DataManager::update(): Argument #2 ($data) must be of type array, int given, called in /home/c/cm88995/public_html/local/task30/events.php on line 97 (0)
+/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:1256
+#0: Bitrix\Main\ORM\Data\DataManager::update(array, integer)
+	/home/c/cm88995/public_html/local/task30/events.php:97
+#1: local\task30\Events::upd(array, integer, object)
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:274
+#2: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#3: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#4: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#5: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#6: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#7: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#8: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#9: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#10: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#11: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#12: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#13: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#14: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-11 12:00:11 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "local\task30\StringField" not found (0)
+/home/c/cm88995/public_html/local/task30/events.php:98
+#0: local\task30\Events::upd(array, integer, object)
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:274
+#1: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#2: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#3: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#4: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#5: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#6: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#7: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#8: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#9: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#10: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#11: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#12: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#13: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-11 12:02:08 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "local\task30\StringField" not found (0)
+/home/c/cm88995/public_html/local/task30/events.php:98
+#0: local\task30\Events::upd(array, integer, object)
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:274
+#1: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#2: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#3: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#4: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#5: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#6: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#7: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#8: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#9: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#10: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#11: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#12: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#13: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-11 12:03:16 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "local\task30\String" not found (0)
+/home/c/cm88995/public_html/local/task30/events.php:98
+#0: local\task30\Events::upd(array, integer, object)
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:274
+#1: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#2: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#3: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#4: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#5: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#6: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#7: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#8: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#9: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#10: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#11: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#12: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#13: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-11 12:05:04 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "local\task30\Type\String" not found (0)
+/home/c/cm88995/public_html/local/task30/events.php:98
+#0: local\task30\Events::upd(array, integer, object)
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:274
+#1: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#2: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#3: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#4: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#5: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#6: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#7: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#8: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#9: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#10: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#11: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#12: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#13: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-11 12:06:10 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "local\task30\Type\String" not found (0)
+/home/c/cm88995/public_html/local/task30/events.php:98
+#0: local\task30\Events::upd(array, integer, object)
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:274
+#1: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#2: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#3: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#4: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#5: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#6: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#7: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#8: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#9: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#10: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#11: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#12: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#13: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-11 12:06:20 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "local\task30\Type\String" not found (0)
+/home/c/cm88995/public_html/local/task30/events.php:98
+#0: local\task30\Events::upd(array, integer, object)
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:274
+#1: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#2: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#3: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#4: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#5: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#6: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#7: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#8: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#9: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#10: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#11: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#12: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#13: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-11 12:07:51 - Host: cm88995.tw1.ru - UNKNOWN - [Bitrix\Main\ArgumentException] 
+Unknown primary `ENTITY_ID` found when trying to query OriginalContactsData row. (100)
+/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:649
+#0: Bitrix\Main\ORM\Data\DataManager::validatePrimary(array)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:1264
+#1: Bitrix\Main\ORM\Data\DataManager::update(array, array)
+	/home/c/cm88995/public_html/local/task30/events.php:97
+#2: local\task30\Events::upd(array, integer, object)
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:274
+#3: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#4: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#5: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#6: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#7: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#8: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#9: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#10: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#11: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#12: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#13: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#14: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#15: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-11 12:08:46 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Undefined constant "local\task30\ENTITY_ID" (0)
+/home/c/cm88995/public_html/local/task30/events.php:98
+#0: local\task30\Events::upd(array, integer, object)
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:274
+#1: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#2: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#3: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#4: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#5: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#6: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#7: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#8: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#9: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#10: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#11: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#12: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#13: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-11 12:09:08 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "local\task30\ENTITY_ID" not found (0)
+/home/c/cm88995/public_html/local/task30/events.php:98
+#0: local\task30\Events::upd(array, integer, object)
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:274
+#1: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#2: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#3: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#4: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#5: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#6: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#7: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#8: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#9: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#10: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#11: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#12: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#13: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-11 12:16:53 - Host: cm88995.tw1.ru - UNKNOWN - [Bitrix\Main\ArgumentException] 
+Unknown primary `ENTITY_ID` found when trying to query OriginalContactsData row. (100)
+/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:649
+#0: Bitrix\Main\ORM\Data\DataManager::validatePrimary(array)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:1264
+#1: Bitrix\Main\ORM\Data\DataManager::update(array, array)
+	/home/c/cm88995/public_html/local/task30/events.php:97
+#2: local\task30\Events::upd(array, integer, object)
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:274
+#3: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#4: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#5: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#6: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#7: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#8: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#9: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#10: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#11: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#12: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#13: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#14: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#15: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-11 12:45:06 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [TypeError] 
+Bitrix\Main\ORM\Data\DataManager::update(): Argument #2 ($data) must be of type array, int given, called in /home/c/cm88995/public_html/local/task30/events.php on line 104 (0)
+/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:1256
+#0: Bitrix\Main\ORM\Data\DataManager::update(integer, integer)
+	/home/c/cm88995/public_html/local/task30/events.php:104
+#1: local\task30\Events::upd(integer, integer, object)
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:274
+#2: CRestServer->processCall()
+	/home/c/cm88995/public_html/bitrix/modules/rest/classes/general/rest.php:138
+#3: CRestServer->process()
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.server/component.php:86
+#4: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#5: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#6: CBitrixComponent->includeComponent(string, array, NULL, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#7: CAllMain->IncludeComponent(string, string, array, NULL, array)
+	/home/c/cm88995/public_html/bitrix/components/bitrix/rest.provider/component.php:11
+#8: include(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:622
+#9: CBitrixComponent->__includeComponent()
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/component.php:699
+#10: CBitrixComponent->includeComponent(string, array, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/classes/general/main.php:1188
+#11: CAllMain->IncludeComponent(string, string, array, boolean, array)
+	/home/c/cm88995/public_html/bitrix/modules/rest/services/rest/index.php:18
+#12: require(string)
+	/home/c/cm88995/public_html/bitrix/services/rest/index.php:1
+#13: include_once(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/include/urlrewrite.php:128
+#14: include_once(string)
+	/home/c/cm88995/public_html/bitrix/urlrewrite.php:2
+----------
+
+OTUS - 2025-10-11 15:47:11 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected namespaced name "Bitrix\Main\Application" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:1
+#0: require_once
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-11 15:47:36 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Undefined constant "‘aholin" (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:7
+#0: eval
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php:135
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-11 15:47:51 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "Otus\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:13
+#0: eval
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php:135
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-11 15:48:19 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "local\task9\AuthorTable" not found (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:13
+#0: eval
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php:135
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-11 15:49:48 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "local\task9\AuthorTable" not found (0)
+/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php(135) : eval()'d code:14
+#0: eval
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/php_command_line.php:135
+#1: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/php_command_line.php:2
+----------
+
+OTUS - 2025-10-11 16:01:12 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\ObjectException] 
+Incorrect date: 2015 (500)
+/home/c/cm88995/public_html/bitrix/modules/main/lib/type/date.php:33
+#0: Bitrix\Main\Type\Date->__construct(string)
+	/home/c/cm88995/public_html/bitrix/modules/perfmon/admin/perfmon_row_edit.php:551
+#1: require(string)
+	/home/c/cm88995/public_html/bitrix/admin/perfmon_row_edit.php:2
+----------
+
+OTUS - 2025-10-11 16:01:26 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\ObjectException] 
+Incorrect date: 2015 (500)
+/home/c/cm88995/public_html/bitrix/modules/main/lib/type/date.php:33
+#0: Bitrix\Main\Type\Date->__construct(string)
+	/home/c/cm88995/public_html/bitrix/modules/perfmon/admin/perfmon_row_edit.php:551
+#1: require(string)
+	/home/c/cm88995/public_html/bitrix/admin/perfmon_row_edit.php:2
+----------
+
+OTUS - 2025-10-11 16:44:58 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ArgumentCountError] 
+exec() expects at least 1 argument, 0 given (0)
+/home/c/cm88995/public_html/local/task9/custom-orm-read.php:33
+#0: exec()
+	/home/c/cm88995/public_html/local/task9/custom-orm-read.php:33
+----------
+
+OTUS - 2025-10-11 16:45:31 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\SqlQueryException] 
+Mysql query error: (1054) Unknown column 'local_task9_book.RAND' in 'order clause' (400)
+SELECT 
+	`local_task9_book`.`ID` AS `ID`,
+	`local_task9_book`.`TITLE` AS `TITLE`,
+	`local_task9_book`.`YEAR` AS `YEAR`,
+	`local_task9_book`.`PUBLISH_DATE` AS `PUBLISH_DATE`,
+	`local_task9_book`.`PAGES` AS `PAGES`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors`.`NAME` AS `LOCAL_TASK9_BOOK_DOCTOR_RECOMMENDS_NAME`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`BOOK_ID` AS `UALIAS_0`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`DOCTOR_ID` AS `UALIAS_1`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors`.`ID` AS `UALIAS_2`
+FROM `task9_book` `local_task9_book` 
+LEFT JOIN `task9_doctor_recommends` `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book` ON `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`BOOK_ID` = `local_task9_book`.`ID`
+LEFT JOIN `b_iblock_element` `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors` ON `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`DOCTOR_ID` = `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors`.`ID`
+ORDER BY `local_task9_book`.`RAND` ASC
+LIMIT 0, 1
+
+/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqlcommonconnection.php:415
+#0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException(integer, string, string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqliconnection.php:149
+#1: Bitrix\Main\DB\MysqliConnection->queryInternal(string, array, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:324
+#2: Bitrix\Main\DB\Connection->query(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:3601
+#3: Bitrix\Main\ORM\Query\Query->query(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:972
+#4: Bitrix\Main\ORM\Query\Query->exec()
+	/home/c/cm88995/public_html/local/task9/custom-orm-read.php:33
+----------
+
+OTUS - 2025-10-11 16:46:24 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\SqlQueryException] 
+Mysql query error: (1054) Unknown column 'local_task9_book.RAND' in 'order clause' (400)
+SELECT 
+	`local_task9_book`.`ID` AS `ID`,
+	`local_task9_book`.`TITLE` AS `TITLE`,
+	`local_task9_book`.`YEAR` AS `YEAR`,
+	`local_task9_book`.`PUBLISH_DATE` AS `PUBLISH_DATE`,
+	`local_task9_book`.`PAGES` AS `PAGES`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors`.`NAME` AS `LOCAL_TASK9_BOOK_DOCTOR_RECOMMENDS_NAME`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`BOOK_ID` AS `UALIAS_0`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`DOCTOR_ID` AS `UALIAS_1`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors`.`ID` AS `UALIAS_2`
+FROM `task9_book` `local_task9_book` 
+LEFT JOIN `task9_doctor_recommends` `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book` ON `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`BOOK_ID` = `local_task9_book`.`ID`
+LEFT JOIN `b_iblock_element` `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors` ON `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`DOCTOR_ID` = `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors`.`ID`
+ORDER BY `local_task9_book`.`RAND` ASC
+LIMIT 0, 1
+
+/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqlcommonconnection.php:415
+#0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException(integer, string, string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqliconnection.php:149
+#1: Bitrix\Main\DB\MysqliConnection->queryInternal(string, array, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:324
+#2: Bitrix\Main\DB\Connection->query(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:3601
+#3: Bitrix\Main\ORM\Query\Query->query(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:972
+#4: Bitrix\Main\ORM\Query\Query->exec()
+	/home/c/cm88995/public_html/local/task9/custom-orm-read.php:33
+----------
+
+OTUS - 2025-10-11 17:13:26 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\SqlQueryException] 
+Mysql query error: (1054) Unknown column 'local_task9_book.RAND' in 'order clause' (400)
+SELECT 
+	`local_task9_book`.`ID` AS `ID`,
+	`local_task9_book`.`TITLE` AS `TITLE`,
+	`local_task9_book`.`YEAR` AS `YEAR`,
+	`local_task9_book`.`PUBLISH_DATE` AS `PUBLISH_DATE`,
+	`local_task9_book`.`PAGES` AS `PAGES`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors`.`NAME` AS `DOCTOR_NAME`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`BOOK_ID` AS `UALIAS_0`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`DOCTOR_ID` AS `UALIAS_1`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors`.`ID` AS `UALIAS_2`
+FROM `task9_book` `local_task9_book` 
+LEFT JOIN `task9_doctor_recommends` `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book` ON `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`BOOK_ID` = `local_task9_book`.`ID`
+LEFT JOIN `b_iblock_element` `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors` ON `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`DOCTOR_ID` = `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors`.`ID`
+ORDER BY `local_task9_book`.`RAND` ASC
+LIMIT 0, 1
+
+/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqlcommonconnection.php:415
+#0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException(integer, string, string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqliconnection.php:149
+#1: Bitrix\Main\DB\MysqliConnection->queryInternal(string, array, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:324
+#2: Bitrix\Main\DB\Connection->query(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:3601
+#3: Bitrix\Main\ORM\Query\Query->query(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:972
+#4: Bitrix\Main\ORM\Query\Query->exec()
+	/home/c/cm88995/public_html/local/task9/custom-orm-read.php:33
+----------
+
+OTUS - 2025-10-11 17:13:28 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\SqlQueryException] 
+Mysql query error: (1054) Unknown column 'local_task9_book.RAND' in 'order clause' (400)
+SELECT 
+	`local_task9_book`.`ID` AS `ID`,
+	`local_task9_book`.`TITLE` AS `TITLE`,
+	`local_task9_book`.`YEAR` AS `YEAR`,
+	`local_task9_book`.`PUBLISH_DATE` AS `PUBLISH_DATE`,
+	`local_task9_book`.`PAGES` AS `PAGES`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors`.`NAME` AS `DOCTOR_NAME`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`BOOK_ID` AS `UALIAS_0`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`DOCTOR_ID` AS `UALIAS_1`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors`.`ID` AS `UALIAS_2`
+FROM `task9_book` `local_task9_book` 
+LEFT JOIN `task9_doctor_recommends` `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book` ON `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`BOOK_ID` = `local_task9_book`.`ID`
+LEFT JOIN `b_iblock_element` `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors` ON `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`DOCTOR_ID` = `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors`.`ID`
+ORDER BY `local_task9_book`.`RAND` ASC
+LIMIT 0, 1
+
+/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqlcommonconnection.php:415
+#0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException(integer, string, string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqliconnection.php:149
+#1: Bitrix\Main\DB\MysqliConnection->queryInternal(string, array, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:324
+#2: Bitrix\Main\DB\Connection->query(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:3601
+#3: Bitrix\Main\ORM\Query\Query->query(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:972
+#4: Bitrix\Main\ORM\Query\Query->exec()
+	/home/c/cm88995/public_html/local/task9/custom-orm-read.php:33
+----------
+
+OTUS - 2025-10-11 17:18:00 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\SqlQueryException] 
+Mysql query error: (1054) Unknown column 'local_task9_book.RAND' in 'order clause' (400)
+SELECT 
+	`local_task9_book`.`ID` AS `ID`,
+	`local_task9_book`.`TITLE` AS `TITLE`,
+	`local_task9_book`.`YEAR` AS `YEAR`,
+	`local_task9_book`.`PUBLISH_DATE` AS `PUBLISH_DATE`,
+	`local_task9_book`.`PAGES` AS `PAGES`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors`.`NAME` AS `LOCAL_TASK9_BOOK_DOCTOR_RECOMMENDS_NAME`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`BOOK_ID` AS `UALIAS_0`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`DOCTOR_ID` AS `UALIAS_1`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors`.`ID` AS `UALIAS_2`
+FROM `task9_book` `local_task9_book` 
+LEFT JOIN `task9_doctor_recommends` `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book` ON `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`BOOK_ID` = `local_task9_book`.`ID`
+LEFT JOIN `b_iblock_element` `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors` ON `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`DOCTOR_ID` = `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors`.`ID`
+ORDER BY `local_task9_book`.`RAND` ASC
+LIMIT 0, 1
+
+/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqlcommonconnection.php:415
+#0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException(integer, string, string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqliconnection.php:149
+#1: Bitrix\Main\DB\MysqliConnection->queryInternal(string, array, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:324
+#2: Bitrix\Main\DB\Connection->query(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:3601
+#3: Bitrix\Main\ORM\Query\Query->query(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:972
+#4: Bitrix\Main\ORM\Query\Query->exec()
+	/home/c/cm88995/public_html/local/task9/custom-orm-read.php:33
+----------
+
+OTUS - 2025-10-11 17:18:03 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\SqlQueryException] 
+Mysql query error: (1054) Unknown column 'local_task9_book.RAND' in 'order clause' (400)
+SELECT 
+	`local_task9_book`.`ID` AS `ID`,
+	`local_task9_book`.`TITLE` AS `TITLE`,
+	`local_task9_book`.`YEAR` AS `YEAR`,
+	`local_task9_book`.`PUBLISH_DATE` AS `PUBLISH_DATE`,
+	`local_task9_book`.`PAGES` AS `PAGES`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors`.`NAME` AS `LOCAL_TASK9_BOOK_DOCTOR_RECOMMENDS_NAME`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`BOOK_ID` AS `UALIAS_0`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`DOCTOR_ID` AS `UALIAS_1`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors`.`ID` AS `UALIAS_2`
+FROM `task9_book` `local_task9_book` 
+LEFT JOIN `task9_doctor_recommends` `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book` ON `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`BOOK_ID` = `local_task9_book`.`ID`
+LEFT JOIN `b_iblock_element` `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors` ON `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`DOCTOR_ID` = `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors`.`ID`
+ORDER BY `local_task9_book`.`RAND` ASC
+LIMIT 0, 1
+
+/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqlcommonconnection.php:415
+#0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException(integer, string, string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqliconnection.php:149
+#1: Bitrix\Main\DB\MysqliConnection->queryInternal(string, array, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:324
+#2: Bitrix\Main\DB\Connection->query(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:3601
+#3: Bitrix\Main\ORM\Query\Query->query(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:972
+#4: Bitrix\Main\ORM\Query\Query->exec()
+	/home/c/cm88995/public_html/local/task9/custom-orm-read.php:33
+----------
+
+OTUS - 2025-10-11 17:18:05 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\SqlQueryException] 
+Mysql query error: (1054) Unknown column 'local_task9_book.RAND' in 'order clause' (400)
+SELECT 
+	`local_task9_book`.`ID` AS `ID`,
+	`local_task9_book`.`TITLE` AS `TITLE`,
+	`local_task9_book`.`YEAR` AS `YEAR`,
+	`local_task9_book`.`PUBLISH_DATE` AS `PUBLISH_DATE`,
+	`local_task9_book`.`PAGES` AS `PAGES`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors`.`NAME` AS `LOCAL_TASK9_BOOK_DOCTOR_RECOMMENDS_NAME`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`BOOK_ID` AS `UALIAS_0`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`DOCTOR_ID` AS `UALIAS_1`,
+	`local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors`.`ID` AS `UALIAS_2`
+FROM `task9_book` `local_task9_book` 
+LEFT JOIN `task9_doctor_recommends` `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book` ON `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`BOOK_ID` = `local_task9_book`.`ID`
+LEFT JOIN `b_iblock_element` `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors` ON `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book`.`DOCTOR_ID` = `local_task9_book_mediator_from_book_to_elementdoctors_via_doctor_recommends_book_elementdoctors`.`ID`
+ORDER BY `local_task9_book`.`RAND` ASC
+LIMIT 0, 1
+
+/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqlcommonconnection.php:415
+#0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException(integer, string, string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqliconnection.php:149
+#1: Bitrix\Main\DB\MysqliConnection->queryInternal(string, array, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:324
+#2: Bitrix\Main\DB\Connection->query(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:3601
+#3: Bitrix\Main\ORM\Query\Query->query(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:972
+#4: Bitrix\Main\ORM\Query\Query->exec()
+	/home/c/cm88995/public_html/local/task9/custom-orm-read.php:33
+----------
+
+OTUS - 2025-10-11 17:24:25 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Call to undefined function dump() (0)
+/home/c/cm88995/public_html/local/task9/custom-orm-read.php:24
+----------
+
+OTUS - 2025-10-11 17:24:55 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Call to undefined function dump() (0)
+/home/c/cm88995/public_html/local/task9/custom-orm-read.php:24
+----------
+
+OTUS - 2025-10-11 17:25:00 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Call to undefined function dump() (0)
+/home/c/cm88995/public_html/local/task9/custom-orm-read.php:24
+----------
+
+OTUS - 2025-10-11 17:25:28 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Call to undefined function dump() (0)
+/home/c/cm88995/public_html/local/task9/custom-orm-read.php:24
+----------
+
+OTUS - 2025-10-11 17:25:32 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Call to undefined function dump() (0)
+/home/c/cm88995/public_html/local/task9/custom-orm-read.php:24
+----------
+
+OTUS - 2025-10-11 17:29:18 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Call to undefined function dump() (0)
+/home/c/cm88995/public_html/local/task9/custom-orm-read.php:24
+----------
+
+OTUS - 2025-10-11 17:29:20 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Call to undefined function dump() (0)
+/home/c/cm88995/public_html/local/task9/custom-orm-read.php:24
+----------
+
+OTUS - 2025-10-11 17:32:00 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\SystemException] 
+Unknown field definition `DOCTOR_RECOMENDS` (DOCTOR_RECOMENDS.*) for \local\task9\Book Entity. (100)
+/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/chain.php:346
+#0: Bitrix\Main\ORM\Query\Chain::getChainByDefinition(object, string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:1153
+#1: Bitrix\Main\ORM\Query\Query->addToSelectChain(string, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:2476
+#2: Bitrix\Main\ORM\Query\Query->buildQuery()
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/query/query.php:942
+#3: Bitrix\Main\ORM\Query\Query->exec()
+	/home/c/cm88995/public_html/local/task9/custom-orm-read.php:23
+----------
+
+OTUS - 2025-10-11 17:53:00 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_ERROR
+base64_encode(): Cannot use output buffering in output buffering display handlers (0)
+/home/c/cm88995/public_html/bitrix/modules/seo/include.php:82
+----------
+
+OTUS - 2025-10-11 18:35:01 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_ERROR
+base64_encode(): Cannot use output buffering in output buffering display handlers (0)
+/home/c/cm88995/public_html/bitrix/modules/seo/include.php:82
+----------
+
+OTUS - 2025-10-11 18:35:08 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_ERROR
+base64_encode(): Cannot use output buffering in output buffering display handlers (0)
+/home/c/cm88995/public_html/bitrix/modules/seo/include.php:82
+----------
+
+OTUS - 2025-10-11 18:35:11 - Host: cm88995.tw1.ru - FATAL - [ErrorException] E_ERROR
+base64_encode(): Cannot use output buffering in output buffering display handlers (0)
+/home/c/cm88995/public_html/bitrix/modules/seo/include.php:82
+----------
+
