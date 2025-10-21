@@ -2690,3 +2690,921 @@ base64_encode(): Cannot use output buffering in output buffering display handler
 /home/c/cm88995/public_html/bitrix/modules/seo/include.php:82
 ----------
 
+OTUS - 2025-10-20 15:06:55 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\IO\InvalidPathException] 
+Path is invalid. (120)
+/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:87
+#0: task16_crmcustomtab->InstallFiles()
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:49
+#1: task16_crmcustomtab->DoInstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:249
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 16:11:40 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\IO\InvalidPathException] 
+Path is invalid. (120)
+/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:178
+#0: task16_crmcustomtab->UninstallFiles()
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:65
+#1: task16_crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 16:13:02 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\IO\InvalidPathException] 
+Path is invalid. (120)
+/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:178
+#0: task16_crmcustomtab->UninstallFiles()
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:65
+#1: task16_crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 16:15:07 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\IO\InvalidPathException] 
+Path is invalid. (120)
+/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:178
+#0: task16_crmcustomtab->UninstallFiles()
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:65
+#1: task16_crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 16:16:55 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\IO\InvalidPathException] 
+Path is invalid. (120)
+/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:178
+#0: task16_crmcustomtab->UninstallFiles()
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:65
+#1: task16_crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 16:53:13 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\IO\InvalidPathException] 
+Path is invalid. (120)
+/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:178
+#0: task16_crmcustomtab->UninstallFiles()
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:65
+#1: task16_crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 16:54:50 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\IO\InvalidPathException] 
+Path is invalid. (120)
+/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:178
+#0: task16_crmcustomtab->UninstallFiles()
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:65
+#1: task16_crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 16:55:50 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\IO\InvalidPathException] 
+Path is invalid. (120)
+/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:178
+#0: task16_crmcustomtab->UninstallFiles()
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:65
+#1: task16_crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 16:58:00 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\DuplicateEntryException] 
+Mysql query error: (1062) Duplicate entry 'task16.Crmcustomtab' for key 'b_module.PRIMARY' (400)
+INSERT INTO `b_module`(`ID`) VALUES ('task16.Crmcustomtab')
+/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqlcommonconnection.php:413
+#0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException(integer, string, string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqliconnection.php:149
+#1: Bitrix\Main\DB\MysqliConnection->queryInternal(string, array, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:324
+#2: Bitrix\Main\DB\Connection->query(string, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:373
+#3: Bitrix\Main\DB\Connection->queryExecute(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:458
+#4: Bitrix\Main\DB\Connection->add(string, array, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/addstrategy/insert.php:25
+#5: Bitrix\Main\ORM\Data\AddStrategy\Insert->add(array)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:956
+#6: Bitrix\Main\ORM\Data\DataManager::sysAddInternal(object, array)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:879
+#7: Bitrix\Main\ORM\Data\DataManager::add(array)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/modulemanager.php:148
+#8: Bitrix\Main\ModuleManager::add(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/modulemanager.php:159
+#9: Bitrix\Main\ModuleManager::registerModule(string)
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:48
+#10: task16_Crmcustomtab->DoInstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:249
+#11: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 16:58:40 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\DuplicateEntryException] 
+Mysql query error: (1062) Duplicate entry 'task16.Crmcustomtab' for key 'b_module.PRIMARY' (400)
+INSERT INTO `b_module`(`ID`) VALUES ('task16.Crmcustomtab')
+/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqlcommonconnection.php:413
+#0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException(integer, string, string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqliconnection.php:149
+#1: Bitrix\Main\DB\MysqliConnection->queryInternal(string, array, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:324
+#2: Bitrix\Main\DB\Connection->query(string, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:373
+#3: Bitrix\Main\DB\Connection->queryExecute(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:458
+#4: Bitrix\Main\DB\Connection->add(string, array, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/addstrategy/insert.php:25
+#5: Bitrix\Main\ORM\Data\AddStrategy\Insert->add(array)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:956
+#6: Bitrix\Main\ORM\Data\DataManager::sysAddInternal(object, array)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:879
+#7: Bitrix\Main\ORM\Data\DataManager::add(array)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/modulemanager.php:148
+#8: Bitrix\Main\ModuleManager::add(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/modulemanager.php:159
+#9: Bitrix\Main\ModuleManager::registerModule(string)
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:48
+#10: task16_Crmcustomtab->DoInstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:249
+#11: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 17:00:26 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\IO\InvalidPathException] 
+Path is invalid. (120)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:87
+#0: task16_Crmcustomtab->InstallFiles()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:49
+#1: task16_Crmcustomtab->DoInstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:249
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 17:07:10 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\IO\InvalidPathException] 
+Path is invalid. (120)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:178
+#0: task16_Crmcustomtab->UninstallFiles()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:65
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 17:10:09 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\IO\InvalidPathException] 
+Path is invalid. (120)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:178
+#0: task16_Crmcustomtab->UninstallFiles()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:65
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 17:10:55 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\IO\InvalidPathException] 
+Path is invalid. (120)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:178
+#0: task16_Crmcustomtab->UninstallFiles()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:65
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 17:12:13 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\IO\InvalidPathException] 
+Path is invalid. (120)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:178
+#0: task16_Crmcustomtab->UninstallFiles()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:65
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 17:45:29 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\IO\InvalidPathException] 
+Path is invalid. (120)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:178
+#0: task16_Crmcustomtab->UninstallFiles()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:65
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 17:50:14 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\IO\InvalidPathException] 
+Path is invalid. (120)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:178
+#0: task16_Crmcustomtab->UninstallFiles()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:65
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 17:52:04 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 17:53:51 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:101
+#0: task16_Crmcustomtab->InstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:50
+#1: task16_Crmcustomtab->DoInstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:249
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 17:55:48 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 17:56:45 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 17:57:09 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 17:58:48 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 20:10:48 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 20:12:42 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 20:15:57 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 20:18:56 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:101
+#0: task16_Crmcustomtab->InstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:50
+#1: task16_Crmcustomtab->DoInstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:249
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 20:41:50 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 20:48:03 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected token "\" (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:14
+#0: CModule::CreateModuleObject(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/modulemanager.php:67
+#1: Bitrix\Main\ModuleManager::getModulesFromDisk(boolean, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:134
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 20:48:29 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected token "\" (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:15
+#0: CModule::CreateModuleObject(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/modulemanager.php:67
+#1: Bitrix\Main\ModuleManager::getModulesFromDisk(boolean, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:134
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 20:48:49 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 20:49:15 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 20:51:02 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 20:53:24 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "local\modulestask16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 20:53:38 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "local\modules\task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 20:55:45 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 20:56:51 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTableM" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:42:31 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected token "." (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:14
+#0: CModule::CreateModuleObject(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/modulemanager.php:67
+#1: Bitrix\Main\ModuleManager::getModulesFromDisk(boolean, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:134
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:42:31 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [ParseError] 
+syntax error, unexpected token "." (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:14
+#0: CModule::CreateModuleObject(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/modulemanager.php:67
+#1: Bitrix\Main\ModuleManager::getModulesFromDisk(boolean, boolean, boolean)
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:134
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:43:06 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "AuthorTableM" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:43:23 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "AuthorTableM" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:43:51 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:44:57 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:45:00 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:45:19 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:45:24 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:45:26 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:45:45 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:45:57 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:49:44 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:49:47 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:50:13 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "local\modules\task16\Crmcustomtab\lib\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:51:07 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\lib\Orm\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:53:58 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\lib\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:54:02 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\lib\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:54:21 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:54:24 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:56:21 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:56:24 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:56:25 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:56:47 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:56:49 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:57:17 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 21:57:33 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:153
+#0: task16_Crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.Crmcustomtab/install/index.php:66
+#1: task16_Crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 22:04:16 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\DuplicateEntryException] 
+Mysql query error: (1062) Duplicate entry 'task16.crmcustomtab' for key 'b_module.PRIMARY' (400)
+INSERT INTO `b_module`(`ID`) VALUES ('task16.crmcustomtab')
+/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqlcommonconnection.php:413
+#0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException(integer, string, string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqliconnection.php:149
+#1: Bitrix\Main\DB\MysqliConnection->queryInternal(string, array, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:324
+#2: Bitrix\Main\DB\Connection->query(string, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:373
+#3: Bitrix\Main\DB\Connection->queryExecute(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:458
+#4: Bitrix\Main\DB\Connection->add(string, array, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/addstrategy/insert.php:25
+#5: Bitrix\Main\ORM\Data\AddStrategy\Insert->add(array)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:956
+#6: Bitrix\Main\ORM\Data\DataManager::sysAddInternal(object, array)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:879
+#7: Bitrix\Main\ORM\Data\DataManager::add(array)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/modulemanager.php:148
+#8: Bitrix\Main\ModuleManager::add(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/modulemanager.php:159
+#9: Bitrix\Main\ModuleManager::registerModule(string)
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:48
+#10: task16_crmcustomtab->DoInstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:249
+#11: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 22:05:45 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\crmcustomtab\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:153
+#0: task16_crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:66
+#1: task16_crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 22:06:49 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\crmcustomtab\AuthorTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:101
+#0: task16_crmcustomtab->InstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:50
+#1: task16_crmcustomtab->DoInstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:249
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 22:10:14 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\crmcustomtab\Orm\BookTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:153
+#0: task16_crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:66
+#1: task16_crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 22:11:27 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "TestDataInstaller" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:185
+#0: task16_crmcustomtab->addEntityElements(string)
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:109
+#1: task16_crmcustomtab->InstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:50
+#2: task16_crmcustomtab->DoInstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:249
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 22:13:33 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Crmcustomtab\Data\TestDataInstaller" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:185
+#0: task16_crmcustomtab->addEntityElements(string)
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:109
+#1: task16_crmcustomtab->InstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:50
+#2: task16_crmcustomtab->DoInstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:249
+#3: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 22:23:38 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Error] 
+Class "task16\Ccrmcustomtab\Orm\BookTable" not found (0)
+/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:153
+#0: task16_crmcustomtab->UnInstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:66
+#1: task16_crmcustomtab->DoUninstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:226
+#2: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 22:24:19 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\DuplicateEntryException] 
+Mysql query error: (1062) Duplicate entry '1-1' for key 'task9_book_author.PRIMARY' (400)
+INSERT INTO `task9_book_author`(`BOOK_ID`, `AUTHOR_ID`) VALUES (1, 1)
+/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqlcommonconnection.php:413
+#0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException(integer, string, string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqliconnection.php:149
+#1: Bitrix\Main\DB\MysqliConnection->queryInternal(string, array, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:324
+#2: Bitrix\Main\DB\Connection->query(string, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:373
+#3: Bitrix\Main\DB\Connection->queryExecute(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:458
+#4: Bitrix\Main\DB\Connection->add(string, array, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/addstrategy/insert.php:25
+#5: Bitrix\Main\ORM\Data\AddStrategy\Insert->add(array)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:956
+#6: Bitrix\Main\ORM\Data\DataManager::sysAddInternal(object, array)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:879
+#7: Bitrix\Main\ORM\Data\DataManager::add(array)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/objectify/entityobject.php:344
+#8: Bitrix\Main\ORM\Objectify\EntityObject->save()
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/objectify/entityobject.php:2075
+#9: Bitrix\Main\ORM\Objectify\EntityObject->sysSaveRelations(object)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/objectify/entityobject.php:388
+#10: Bitrix\Main\ORM\Objectify\EntityObject->save()
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/lib/Data/TestDataInstaller.php:220
+#11: task16\Crmcustomtab\Data\TestDataInstaller::addBooks()
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:187
+#12: task16_crmcustomtab->addEntityElements(string)
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:109
+#13: task16_crmcustomtab->InstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:50
+#14: task16_crmcustomtab->DoInstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:249
+#15: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
+OTUS - 2025-10-20 22:25:15 - Host: cm88995.tw1.ru - UNCAUGHT_EXCEPTION - [Bitrix\Main\DB\DuplicateEntryException] 
+Mysql query error: (1062) Duplicate entry '1-1' for key 'task9_book_author.PRIMARY' (400)
+INSERT INTO `task9_book_author`(`BOOK_ID`, `AUTHOR_ID`) VALUES (1, 1)
+/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqlcommonconnection.php:413
+#0: Bitrix\Main\DB\MysqlCommonConnection->createQueryException(integer, string, string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/mysqliconnection.php:149
+#1: Bitrix\Main\DB\MysqliConnection->queryInternal(string, array, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:324
+#2: Bitrix\Main\DB\Connection->query(string, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:373
+#3: Bitrix\Main\DB\Connection->queryExecute(string)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/db/connection.php:458
+#4: Bitrix\Main\DB\Connection->add(string, array, NULL)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/addstrategy/insert.php:25
+#5: Bitrix\Main\ORM\Data\AddStrategy\Insert->add(array)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:956
+#6: Bitrix\Main\ORM\Data\DataManager::sysAddInternal(object, array)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/data/datamanager.php:879
+#7: Bitrix\Main\ORM\Data\DataManager::add(array)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/objectify/entityobject.php:344
+#8: Bitrix\Main\ORM\Objectify\EntityObject->save()
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/objectify/entityobject.php:2075
+#9: Bitrix\Main\ORM\Objectify\EntityObject->sysSaveRelations(object)
+	/home/c/cm88995/public_html/bitrix/modules/main/lib/orm/objectify/entityobject.php:388
+#10: Bitrix\Main\ORM\Objectify\EntityObject->save()
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/lib/Data/TestDataInstaller.php:220
+#11: task16\Crmcustomtab\Data\TestDataInstaller::addBooks()
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:187
+#12: task16_crmcustomtab->addEntityElements(string)
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:109
+#13: task16_crmcustomtab->InstallDB()
+	/home/c/cm88995/public_html/local/modules/task16.crmcustomtab/install/index.php:50
+#14: task16_crmcustomtab->DoInstall()
+	/home/c/cm88995/public_html/bitrix/modules/main/admin/partner_modules.php:249
+#15: require_once(string)
+	/home/c/cm88995/public_html/bitrix/admin/partner_modules.php:2
+----------
+
