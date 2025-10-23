@@ -47,3 +47,45 @@ include_once __DIR__ . '/../task30/events.php';
 //include_once __DIR__ . '/modules/task16/Crmcustomtab/Orm/BookTable.php';
 
 
+//task18
+//include_once __DIR__ . '/../app/UserTypes/IBLink.php';
+//include_once __DIR__ . '/../app/UserTypes/CUserTypeOnlineRecord.php
+
+use Bitrix\Main\EventManager;            //Через обработчик подключаем наш класс который будет описывать наш кастомны тип данных
+$eventManager = EventManager::getInstance();
+
+//пользовательский тип для UF
+$eventManager->AddEventHandler(
+	'main',
+	'OnUserTypeBuildList',
+	[
+		'UserTypes\FormatTelegramLink',     //  класс обработчик пользовательского типа UF поля
+		'GetUserTypeDescription'
+	]
+);
+
+
+
+// пользовательский тип для свойства инфоблока
+$eventManager->AddEventHandler(
+	'iblock',
+	'OnIBlockPropertyBuildList',
+	[
+		'UserTypes\IBLink',                // класс обработчик пользовательского типа свойства
+		'GetUserTypeDescription'
+	]
+);
+
+
+// событие происходит когда отрисовывается когда формируется список типов для свойства элемента инфоблока
+
+
+$eventManager->AddEventHandler(  
+	'iblock',
+	'OnIBlockPropertyBuildList',
+	[
+		'UserTypes\CUserTypeOnlineRecord',
+		'GetUserTypeDescription'
+	]
+);
+
